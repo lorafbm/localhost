@@ -1,0 +1,44 @@
+.clearfix{
+  &:before,
+  &:after{
+    content: "";
+    display: table;
+  }
+  &:after{
+    clear: both;
+  }
+}
+html, body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #bbbbbb;
+  color: #000000;
+}
+
+
+.main{
+  &:extend(.clearfix all);
+  width: 100%;
+  height: auto;
+  max-width: 980px;
+  margin: auto;
+  background-color: #ffffff;
+  font-size: 0;
+  text-align: center;
+  a {
+    img {
+      width: 31%;
+      padding: 1%;
+      float: left;
+      display: inline-block;
+
+
+      @media screen and (max-width: 768px) {
+        width: 48%;
+      }
+      @media screen and (max-width: 480px) {
+        width: 98%;
+      }
+    }
+  }
+}

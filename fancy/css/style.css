@@ -1,0 +1,43 @@
+.clearfix:before,
+.clearfix:after,
+.main:before,
+.main:after {
+  content: "";
+  display: table;
+}
+.clearfix:after,
+.main:after {
+  clear: both;
+}
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #bbbbbb;
+  color: #000000;
+}
+.main {
+  width: 100%;
+  height: auto;
+  max-width: 980px;
+  margin: auto;
+  background-color: #ffffff;
+  font-size: 0;
+  text-align: center;
+}
+.main a img {
+  width: 31%;
+  padding: 1%;
+  float: left;
+  display: inline-block;
+}
+@media screen and (max-width: 768px) {
+  .main a img {
+    width: 48%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .main a img {
+    width: 98%;
+  }
+}

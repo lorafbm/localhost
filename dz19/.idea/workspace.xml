@@ -32,28 +32,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="product.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../prestashop/themes/default-bootstrap/sass/product.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../prestashop/themes/default-bootstrap/css/product.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,6 +165,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
+              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
+              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
+              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+              <item name="default-bootstrap" type="cbb8eebc:String" user="default-bootstrap" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
+              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
+              <item name="themes" type="cbb8eebc:String" user="themes" />
+              <item name="default-bootstrap" type="cbb8eebc:String" user="default-bootstrap" />
+              <item name="sass" type="cbb8eebc:String" user="sass" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -326,48 +343,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="dz19" type="cbb8eebc:String" user="dz19" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
-              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
-              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
-              <item name="themes" type="cbb8eebc:String" user="themes" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
-              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
-              <item name="themes" type="cbb8eebc:String" user="themes" />
-              <item name="default-bootstrap" type="cbb8eebc:String" user="default-bootstrap" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="prestashop" type="cbb8eebc:String" user="prestashop" />
-              <item name="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" type="cbb8eebc:String" user="C:\open_server_5_2_5_ultimate\OpenServer\domains\localhost\prestashop" />
-              <item name="themes" type="cbb8eebc:String" user="themes" />
-              <item name="default-bootstrap" type="cbb8eebc:String" user="default-bootstrap" />
-              <item name="sass" type="cbb8eebc:String" user="sass" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -558,11 +533,13 @@
       <workItem from="1503917370580" duration="305000" />
       <workItem from="1503917736282" duration="234000" />
       <workItem from="1504785623324" duration="45000" />
+      <workItem from="1505299617000" duration="230000" />
+      <workItem from="1505299964452" duration="22000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="354482000" />
+    <option name="totallyTimeSpent" value="354734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,18 +552,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18078668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -894,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12733">
           <caret line="749" column="0" lean-forward="false" selection-start-line="749" selection-start-column="0" selection-end-line="749" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -912,18 +887,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../prestashop/themes/default-bootstrap/css/product.css">
+    <entry file="file://$PROJECT_DIR$/../prestashop/themes/default-bootstrap/sass/product.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="153">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../prestashop/themes/default-bootstrap/sass/product.scss">
+    <entry file="file://$PROJECT_DIR$/../prestashop/themes/default-bootstrap/css/product.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="17">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding />
         </state>
       </provider>
