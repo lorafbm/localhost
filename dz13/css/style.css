@@ -1,0 +1,69 @@
+/*table tr:first-child {
+  background-color: #00b3ee;
+}*/
+a.glyphicon-remove {
+  color: red;
+}
+.thumbnail {
+  margin-bottom: 0;
+}
+.btn-primary {
+  margin-bottom: 10px;
+}
+table {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+table th {
+  line-height: 2;
+}
+@media screen and (max-width: 639px) {
+  table {
+    font-size: 9px;
+  }
+}
+@media screen and (max-width: 479px) {
+  table {
+    font-size: 8px;
+  }
+}
+@media screen and (max-width: 639px) {
+  table img {
+    width: 50px;
+  }
+}
+@media screen and (max-width: 479px) {
+  table img {
+    width: 40px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .table > tbody > tr > td,
+  .table > tbody > tr > th,
+  .table > tfoot > tr > td,
+  .table > tfoot > tr > th,
+  .table > thead > tr > td,
+  .table > thead > tr > th {
+    padding: 1px !important;
+  }
+}
+@media screen and (max-width: 768px) {
+  .input-group .form-control,
+  .input-group-addon,
+  .input-group-btn {
+    margin: 5px;
+    display: block;
+    float: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  .btn {
+    padding: 3px 6px;
+  }
+}
+@media screen and (max-width: 640px) {
+  .nav-stacked > li:last-child {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+}
