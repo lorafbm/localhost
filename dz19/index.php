@@ -20,9 +20,9 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="format-detection" content="address=no">
     <link rel="stylesheet" href="/bower/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/bower/bootstrap/dist/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="/bower/fancybox/source/jquery.fancybox.css?v=2.1.5">
-    <link rel="stylesheet" href="/dz19/css/styles.min.css">
+
+    <!--<link rel="stylesheet" href="/dz19/css/styles.min.css">-->
+    <style><?php echo file_get_contents('./css/styles.min.css')?></style>
     <link rel="canonical" href="https://lora.school-php.com/dz19">
     <link rel="icon" href="/dz19/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="/dz19/favicon.ico" type="image/x-icon">
@@ -327,7 +327,10 @@
         </div>
     </div>
 </div><!-- конец мод окна спасибо-->
+
 <script src="/bower/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="/bower/bootstrap/dist/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="/bower/fancybox/source/jquery.fancybox.css?v=2.1.5">
 <script src="/dz19/js/jquery.mask.min.js"></script>
 <script>
     $(document).ready(function () {

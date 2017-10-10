@@ -10507,3 +10507,39 @@ on the line: 30
 date: 2017-04-07 17-50-48
 =======================================================
 
+QUERY: 
+    SELECT *
+    FROM `pages`
+    WHERE `module` = 'chat'
+    LIMIT 1
+    
+error: Table 'main.pages' doesn't exist
+the error in file:E:\OpenServer\domains\localhost\varibles.php
+on the line: 38
+date: 2017-10-09 13-28-41
+=======================================================
+
+QUERY: 
+    SELECT *
+    FROM `pages`
+    WHERE `module` = 'chat'
+    LIMIT 1
+    
+error: Table 'main.pages' doesn't exist
+the error in file:E:\OpenServer\domains\localhost\varibles.php
+on the line: 38
+date: 2017-10-09 13-28-51
+=======================================================
+
+QUERY: 
+    SELECT *
+    FROM `pages`
+    WHERE `module` = 'chat'
+    LIMIT 1
+    
+error: Table 'main.pages' doesn't exist
+the error in file:E:\OpenServer\domains\localhost\varibles.php
+on the line: 38
+date: 2017-10-09 13-29-01
+=======================================================
+

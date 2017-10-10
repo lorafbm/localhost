@@ -707,7 +707,7 @@ footer div address {
 .countbox-hours,
 .countbox-mins,
 .countbox-secs {
-  background: url('../img/sprite.png') -83px -123px;
+  background: url('./img/sprite.png') -83px -123px;
   background-repeat: no-repeat;
   float: left;
   height: 73px;
