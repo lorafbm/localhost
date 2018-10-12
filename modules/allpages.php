@@ -11,7 +11,7 @@ if (isset($_SESSION ['user'])) {
     if ($_SESSION['user']['active'] != 1) {
         include './modules/cab/exit.php';
     }
-    //обновляем посл активностьпользователя
+    //обновляем посл активность пользователя
     $res = q("
                 UPDATE `users` SET
                `datelast`         = NOW()

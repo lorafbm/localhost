@@ -119,7 +119,7 @@
     </div>
 </div>
 <div class="include">
-    <?php  echo $content;  ?>
+    <?php echo $content;  ?>
 </div>
 <div class="partners">
     <div class="wpartners">

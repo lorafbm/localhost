@@ -346,7 +346,7 @@
 <script src="/bower/fancybox/source/jquery.fancybox.pack.js?v=2.1.5" defer></script>
 <script src="/bower/bootstrap/dist/js/bootstrap.min.js" defer></script>
 <!-- Скрипт, привязывающий событие click, открывающее модальное окно, к элементам, имеющим id #modal и проверка -->
-<script type=text/javascript src="/dz19/js/script_v1.min.js" defer></script>
+<script type=text/javascript src="/dz19/js/script_v1.js" defer></script>
 <!--[if lt IE 9]>
 <script>
     document.createElement("header");
